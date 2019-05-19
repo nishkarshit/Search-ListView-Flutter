@@ -6,9 +6,9 @@ demonstrates how to use filter that list according to the search term.
 
 # API used
 
-Api used in this application is provided by https://dog.ceo(https://dog.ceo/).
+Api used in this application is provided by https://dog.ceo/
 
-We use https://dog.ceo/api/breeds/list/all(https://dog.ceo/api/breeds/list/all) to get 
+We use https://dog.ceo/api/breeds/list/all to get 
 json data which gives the following output.
 
 ```json
